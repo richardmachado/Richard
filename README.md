@@ -3,7 +3,7 @@
 
 ## I am a React web developer out of San Diego, CA
 
-## I can be found at [https:richardmachado.dev](https:richardmachado.dev)
+## I can be found at [https://richardmachado.dev](https://richardmachado.dev)
 
 ## i can be reached at mmachado.richard@gmail.com
 
